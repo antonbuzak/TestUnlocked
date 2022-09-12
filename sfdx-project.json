@@ -4,15 +4,16 @@
             "path": "force-app",
             "default": true,
             "package": "TestUnlocked",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "name": "TestUnlocked",
-    "namespace": "TestUnlocked",
+    "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "TestUnlocked": "0Ho5i0000004CGsCAM"
+        "TestUnlocked": "0Ho5i0000004CGsCAM",
+        "TestUnlocked@1.0.0-1": "04t5i0000005hD7AAI"
     }
 }

@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="TestUnlocked" />
-          <option name="connectionType" value="OAUTH" />
+          <option name="connectionName" value="UnlockedScratch" />
+          <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="TestUnlocked" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/TestUnlocked/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/UnlockedScratch/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
